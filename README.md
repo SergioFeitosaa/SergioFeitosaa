@@ -1,4 +1,64 @@
-<h2 align="left">Olá, sou Desenvolvedor focado em linguagens de Backend - Java . Atualmente curso Análise e Desenvolvimento de Sistemas e estudo pela Alura.</h2>
+<h2 align="left"># 👋 Olá, eu sou Sérgio Ricardo
+
+🚀 **Backend Developer em formação | Java & Spring Boot**
+
+Sou um desenvolvedor em transição de carreira, focado na construção de aplicações backend robustas utilizando **Java e Spring Boot**. Estou constantemente evoluindo através de projetos práticos, aplicando boas práticas como **Clean Code, SOLID e arquitetura em camadas**.
+
+---
+
+## 💻 🛠️ Tecnologias e Ferramentas
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔐 Spring Security (JWT)
+* 🗄️ JPA / Hibernate
+* 🐬 MySQL
+* 🔧 Git & GitHub
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 API REST com Spring Boot (CRUD completo)
+🔹 Sistema com autenticação usando JWT
+🔹 Integração com banco de dados (MySQL)
+🔹 Tratamento de exceções e validações
+
+👉 Confira meus repositórios para ver minha evolução na prática.
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura de Software
+* Microsserviços
+* Testes em Java (JUnit / Mockito)
+* Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **Desenvolvedor Backend Java**, contribuindo com soluções escaláveis, bem estruturadas e de alto impacto.
+
+---
+
+## 📈 Em constante evolução
+
+Acredito que consistência supera talento.
+Estou diariamente estudando, codando e evoluindo 🚀
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (coloque seu link aqui)
+* Email: (opcional)
+
+---
+
+⭐ Se gostou do meu perfil, não esqueça de explorar meus projetos!
+</h2>
 
 ###
 
