@@ -1,13 +1,8 @@
-<h2 align="left">👋 Olá, eu sou Sérgio Ricardo
+<h2 align="left">👋 Olá, eu sou Sérgio Feitosa
 
-🚀 Backend Developer | Java & Spring Boot
+Backend Developer | Java & Spring Boot
 
-Sou um desenvolvedor, focado na construção de aplicações backend robustas utilizando Java e Spring Boot. Estou constantemente evoluindo através de projetos práticos.
-
-📈 Em constante evolução
-
-Acredito que consistência supera talento.
-Estou diariamente estudando, codando e evoluindo 🚀
+Desenvolvedor atualmente cursando Analise desenvolvimento de sistemas, focado na construção de aplicações backend robustas utilizando Java e Spring Boot. Estou constantemente evoluindo através de projetos práticos.
 
 ⭐ Se gostou do meu perfil, não esqueça de explorar meus projetos!
 </h2>
